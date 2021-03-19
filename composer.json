@@ -1,10 +1,8 @@
 {
-    "name": "vishideal-test",
-    "homepage": "http://test.lcl/about",
+    "name": "vishideal/Test",
     "description": "This is test program",
     "keywords": ["test","program"],
     "type": "library",
-    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Vishnu Ugale",
