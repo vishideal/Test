@@ -1,5 +1,14 @@
 {
-    "name": "vishideal/test",
-    "description": "This is test program",
-    "keywords": ["test","program"]
+    "name": "vishideal/Test",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "vishideal",
+            "homepage": "http://test.lcl"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    }
 }
