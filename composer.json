@@ -1,12 +1,5 @@
 {
-    "name": "vishideal/Test",
+    "name": "test",
     "description": "This is test program",
-    "keywords": ["test","program"],
-    "type": "library",
-    "authors": [
-        {
-            "name": "Vishnu Ugale",
-            "homepage": "http://test.lcl/about"
-        }
-    ] 
+    "keywords": ["test","program"]
 }
