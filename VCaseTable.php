@@ -1,7 +1,7 @@
 <?php
 
 function test() {
-  echo 'first test program';
+  echo 'first test program..';
 }
 
 ?>
