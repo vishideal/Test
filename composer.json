@@ -1,0 +1,27 @@
+{
+    "name": "vishideal/Test",
+    "homepage": "http://test.lcl/about",
+    "description": "This is test program",
+    "keywords": ["test","program"],
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Vishnu Ugale",
+            "homepage": "http://test.lcl/about"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "cakephp/cakephp": ">=3.8.0"
+    },
+    "require-dev": {
+        "php": ">=5.5",
+        "cakephp/cakephp": ">=3.8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    } 
+}
